@@ -1,0 +1,125 @@
+* {
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+
+}
+
+body {
+font-family: 'Poppins', sans-serif;
+}
+
+.fa {
+    padding: 20px;
+    font-size: 70px;
+    width: 50px;
+    text-align: center;
+    text-decoration: none;
+    margin: 5px 2px;
+  }
+  .fa:hover {
+    opacity: 0.7;
+  }
+  /* Facebook */
+.fa-facebook {
+    background: #3B5998;
+    color: white;
+  }
+  .fa-instagram {
+    background: #125688;
+    color: white;
+  }
+  .socmed {
+    display: flex;
+    
+    background-color: whitesmoke;
+  }
+  .soc {
+      font-size: 25px;
+  }
+  .responsive {
+      max-width: 100%;
+      height: auto;
+  }
+
+header {
+    background: black;
+    margin: auto;
+}
+.head {
+    color: red;
+}
+
+.logo {
+    color: black;
+    font-size: 50px;
+    margin-top: auto;
+    text-align: left;
+    letter-spacing: 5px;
+    
+}
+main {
+    background: #fb757c;
+    margin: auto;
+    padding: 0px;
+}
+.cover img{
+    height: 70vh;
+    display: block;
+  margin-left: auto;
+  margin-right: auto;
+  
+  
+}
+.quote {
+    background-color:#3498DB;
+    text-align: center;
+    color: white;
+    font-size: 40px;
+}
+
+.mark {
+    color: gray;
+    font-size: 25px;
+}
+
+.aboutme {
+    background-color: whitesmoke;
+    color: black;
+    font-size: 50px;
+    text-align: center;
+}
+.row{
+    background-color: whitesmoke;
+    display: flex;
+    margin: auto;  
+    
+}
+
+.abouttext {
+    margin-top: 70px;
+    flex: 1;
+    margin-left: 100px;
+
+}
+.aboutpic {
+   
+    height: 30vh;
+}
+.hi {
+    color: black;
+    font-size: 45px;
+}
+.par {
+    font-size: 20px;
+}
+.foot {
+    background: orangered;
+    margin: auto;
+    margin-top: 70px;
+}
+.foot-text{
+    text-align: center;
+    color: white;
+}
+
